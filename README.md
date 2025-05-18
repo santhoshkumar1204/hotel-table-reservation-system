@@ -23,5 +23,5 @@ This is a desktop-based application built using Python and Tkinter to streamline
 
 1. Clone this repo:
    ```bash
-   git clone 
+   git clone https://github.com/santhoshkumar1204/hotel-table-reservation-system.git
    cd hotel-table-reservation-system
